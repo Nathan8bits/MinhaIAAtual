@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+
+**/perfis/duck/
+**/perfis/GPT/
+**/component_crx_cache/
+**/Cache/
+**/GPUCache/
